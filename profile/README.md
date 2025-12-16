@@ -1,5 +1,9 @@
 # GitHub Enterprise 利用案内
 
+![img](1_ロゴ黒透過.gif)
+
+こちらは、アイテック阪急阪神のGitHub Organizationです。
+
 ## 概要
 社内でGitHub Enterpriseをご利用いただけます。CI/CDなどの多様な機能を活用し、生産性向上にチャレンジできる環境を提供します。
 
